@@ -1,0 +1,6 @@
+This project is meant to create a QR code for the users desired website
+
+When run, the code will ask the user which website they would like the qr code to take them to, and then
+create a text file which will contain the URL they inputed, and link that URL with the QR code image.
+
+This project was conducted using Node.js, with copied packages from https://www.npmjs.com/
